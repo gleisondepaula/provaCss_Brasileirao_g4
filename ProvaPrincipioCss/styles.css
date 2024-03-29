@@ -1,0 +1,60 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+.team-section {
+    width: 60%;
+    margin: 20px auto;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.team {
+    padding: 20px;
+    text-align: center;
+}
+
+.team h2 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.team p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.flamengo {
+    background-color: #ff0000;
+    color: #000;
+}
+
+.atletico-mg {
+    background-color: #000;
+    color: #fff;
+}
+
+.palmeiras {
+    background-color: #006400;
+    color: #fff;
+}
+
+.fortaleza {
+    background-color: #0000ff;
+    color: #fff;
+}
